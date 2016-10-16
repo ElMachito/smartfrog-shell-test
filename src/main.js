@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// Use Bootstrap on the server
 import { Row, Col, Image, Jumbotron, FormControl, FormGroup, Button, Nav, NavItem } from 'react-bootstrap';
 import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 
