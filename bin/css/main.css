@@ -30,6 +30,7 @@ p {
 .jumbotron {
     background-image: url("../img/03.png");
     background-size: contain;
+    background-repeat: no-repeat;
     height: 520px;
     width: 100%;
     max-width:1400px;
